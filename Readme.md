@@ -1,7 +1,7 @@
 ## Script to send SMS using smsgateway.me services
 
 ### Pre-Reqs:
-	(i) Install SMS Gateway ME API Andorid App in your mobile, which will act as a gateway through which message will get send to your audience
+	    (i) Install SMS Gateway ME API Andorid App in your mobile, which will act as a gateway through which message will get send to your audience
         (ii) After App installation, Register with your mail-id and password.
         (iii) Using same credential, login in http://smsgateway.me, once you logged in. Navigate to https://smsgateway.me/dashboard/devices , you will see the Device ( your Andorid device ) details, note down the 'ID'
         (iv)Then Navigate to https://smsgateway.me/dashboard/settings , note down 'API Token'
